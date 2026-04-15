@@ -1,11 +1,17 @@
-# Inventory Tracker (Python)
+# Maintenance Request Analysis Dashboard
 
-Simple program to track inventory using Python.
+This project analyzes maintenance request data using Excel to identify trends and improve operational efficiency.
 
 ## Features
-- Add items
-- Update quantities
-- View inventory
+- Requests by department (Shop)
+- Requests by location
+- Visual dashboard with charts
 
-## How to run
-Run the script and follow prompts in terminal.
+## Tools Used
+- Microsoft Excel
+
+## Project Files
+- maintenance_dashboard.xlsx (Excel dashboard with data and charts)
+
+## Purpose
+This project demonstrates data organization, analysis, and visualization skills using a real-world style dataset.
